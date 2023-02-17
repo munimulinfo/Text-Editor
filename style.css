@@ -1,0 +1,45 @@
+.container {
+    max-width: 1240px;
+    margin: 0 auto;
+  }
+  
+  .bg-primary {
+    background-color:lightseagreen;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  .text-right {
+    text-align: right;
+  }
+  .text-left {
+    text-align: left;
+  }
+  .text-justify {
+    text-align: justify;
+  }
+  .p-4 {
+    padding: 16px;
+  }
+  
+  .py-4 {
+    padding: 16px 0px;
+  }
+  .px-4 {
+    padding: 0px 16px;
+  }
+  
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .hover:hover {
+    cursor: pointer;
+  }
+  .btn {
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+  }
